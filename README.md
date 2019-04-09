@@ -1,4 +1,6 @@
- --- FEATURE DETECTION ---
+ # --- DETECTION OF SIMILAR OBJECT IN PICTURES TAKEN WITH DIFFERENT PERSPECTIVE ---
+
+## Result example 
 
 Important! : some of the cases are quite slow and require high computational power and memory. If some errors occur with the dimension
              of some arrays, change the value of the parameter 'MAX_NUM_BOX' to 15 or less.
@@ -32,3 +34,4 @@ change the names of the input images and template in one of the cases of the swi
 
 imageChooser : a switch that allows to select the the method used to calculate the distances between images; By default is selected
                'euclidean'; Change it to 'ssim' to see that the algorithm works also with this different kind of measurements.
+          
