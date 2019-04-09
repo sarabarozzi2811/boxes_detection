@@ -1,7 +1,9 @@
 ## DETECTION OF SIMILAR OBJECT IN PICTURES TAKEN WITH DIFFERENT PERSPECTIVE
 
-## Result example 
+## Result example
+![alt text](https://github.com/sarabarozzi2811/boxes_detection/blob/master/Picture1.png)
 
+## File description
 Important! : some of the cases are quite slow and require high computational power and memory. If some errors occur with the dimension
              of some arrays, change the value of the parameter 'MAX_NUM_BOX' to 15 or less.
 
