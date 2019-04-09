@@ -1,9 +1,4 @@
-# Project Title
-
-One Paragraph of project description goes here
-
-
-#  --- FEATURE DETECTION ---
+ --- FEATURE DETECTION ---
 
 Important! : some of the cases are quite slow and require high computational power and memory. If some errors occur with the dimension
              of some arrays, change the value of the parameter 'MAX_NUM_BOX' to 15 or less.
