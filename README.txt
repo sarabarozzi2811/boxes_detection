@@ -1,3 +1,8 @@
+# Project Title
+
+One Paragraph of project description goes here
+
+
 #  --- FEATURE DETECTION ---
 
 Important! : some of the cases are quite slow and require high computational power and memory. If some errors occur with the dimension
